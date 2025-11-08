@@ -6,9 +6,6 @@ E-Commerce Backend in Spring Boot
 A powerful and scalable RESTful API built with Spring Boot to serve as the core backend for an E-Commerce application. This project handles all essential business logic, including user authentication, product catalog management, shopping cart functionality, and order processing, with security and performance in mind.
 
 🌟 Key Features
-Role-Based Access Control: Separate roles and privileges for Customer and Seller/Admin users.
-
-Secure Authentication: Implementation of secure Session Token or JSON Web Token (JWT) based authentication for all protected endpoints.
 
 Comprehensive CRUD Operations: Full Create, Read, Update, and Delete functionality for all major entities.
 
