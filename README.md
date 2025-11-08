@@ -1,9 +1,7 @@
-GitHub Repository Description
-A robust and secure E-Commerce Backend REST API developed using Java and the Spring Boot framework. It provides comprehensive CRUD operations for managing products, customers, carts, and orders, along with role-based authorization for Customers and Sellers/Admins, and secure session/token-based authentication.
 
 README.md
 E-Commerce Backend in Spring Boot
-A powerful and scalable RESTful API built with Spring Boot to serve as the core backend for an E-Commerce application. This project handles all essential business logic, including user authentication, product catalog management, shopping cart functionality, and order processing, with security and performance in mind.
+A powerful and scalable RESTful API built with Spring Boot to serve as the core backend for an E-Commerce application. This project handles all essential business logic, including user authentication through amil and password, product catalog management, shopping cart functionality, and order processing, with security and performance in mind.
 
 🌟 Key Features
 
